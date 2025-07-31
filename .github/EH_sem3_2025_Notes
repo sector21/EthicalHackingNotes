@@ -1,0 +1,102 @@
+JEMIMAH ANNA ANIL - 2462080
+
+##Yahoo Data Breaches – Incident Report##
+Analyst: Jemimah Anna Anil | Breach Years: 2013 & 2014 | Report Date: July 31, 2025
+
+Methodology
+Researched publicly documented Yahoo breach details from 2013 and 2014.
+
+Verified timeline using reliable sources (news archives, cybersecurity blogs, breach analysis reports).
+
+Mapped attacker behavior to a 6-step intrusion timeline (Initial Access → Exfiltration).
+
+Identified what went wrong, and what security controls could have prevented each step.
+
+No code execution or breach simulation performed.
+
+Findings
+| **Step**             | **What Happened**                        | **What Went Wrong**                     | **Preventive Control**             |
+| -------------------- | ---------------------------------------- | --------------------------------------- | ---------------------------------- |
+| 1. Initial Access    | Phishing/stolen creds                    | No MFA or credential hygiene            | MFA, security awareness            |
+| 2. Exploitation      | Forged cookies, exploited web weaknesses | Weak session controls, poor patching    | Patch mgmt, secure cookie handling |
+| 3. Lateral Movement  | Deep access across systems               | No segmentation or RBAC                 | RBAC, network segmentation         |
+| 4. Data Discovery    | Accessed PII, hashed passwords           | Weak hashing (SHA-1), unencrypted Q\&As | Bcrypt, encryption                 |
+| 5. Data Exfiltration | Stolen quietly, likely sold on dark web  | No DLP, no anomaly detection            | DLP tools, outbound monitoring     |
+| 6. Disclosure Delay  | Discovered in 2016, disclosed late       | No IR protocol, poor transparency       | IR policy, timely disclosure       |
+
+Conclusions
+Yahoo failed to patch critical systems and used weak security (e.g., SHA-1 hashing).
+
+Lack of internal monitoring, DLP, and incident response prolonged attacker presence.
+
+Timely detection, transparency, and modern security practices could’ve minimized damage.
+
+Code / Configuration
+No scripts or configurations used – report based on open-source breach analysis only.
+If simulating cookie forgery or hashing attacks, tools like Burp Suite, John the Ripper, or Hashcat could be used in a legal testing environment.
+
+6 step timeline :
+
+Step 1: Initial Access – August 2013 (and separately late 2014)
+What happened:
+Attackers exploited an unpatched vulnerability in Yahoo's internal systems, possibly through spear-phishing or stolen credentials from a third party.
+What went wrong:
+Weak internal access controls and a lack of multifactor authentication (MFA).
+Prevention:
+•	Enforcing MFA across all admin accounts
+•	Employee security training (to prevent phishing)
+•	Regular third-party credential audits
+________________________________________
+Step 2: Exploitation of Vulnerabilities
+What happened:
+Attackers gained admin-level access to Yahoo’s user database by exploiting a weak system and using forged cookies (2014 attack).
+What went wrong:
+Yahoo stored session management cookies insecurely, allowing attackers to forge authentication without passwords.
+Prevention:
+•	Secure cookie/session handling
+•	Patch management for internal tools
+•	Code review and hardening of authentication mechanisms
+________________________________________
+Step 3: Privilege Escalation & Lateral Movement
+What happened:
+Attackers moved through Yahoo’s internal systems, gaining deeper access to user information and backup data repositories.
+What went wrong:
+Flat internal network architecture and insufficient logging allowed attackers to remain undetected for a long period.
+Prevention:
+•	Role-based access control (RBAC)
+•	Segmented networks
+•	Real-time logging and alerting
+________________________________________Step 4: Data Discovery
+What happened:
+Attackers accessed massive databases of user account information, including hashed passwords (some with outdated SHA-1), security questions, and recovery info.
+What went wrong:
+Sensitive data was stored with outdated encryption algorithms (SHA-1 is easily cracked now) and unencrypted security answers.
+Prevention:
+•	Use of bcrypt or Argon2 for password hashing
+•	Encryption of all sensitive fields (not just passwords)
+•	Remove or anonymize legacy data
+________________________________________
+Step 5: Data Exfiltration
+What happened:
+The data was stolen quietly and likely sold on the dark web. Yahoo initially discovered anomalies in 2014 but underestimated the scale.
+What went wrong:
+•	No effective Data Loss Prevention (DLP) systems
+•	No alert for large-scale data movement
+Prevention:
+•	Deploy DLP tools
+•	Monitor outbound traffic anomalies
+•	Encrypt backups and exports
+________________________________________
+Step 6: Discovery & Disclosure – 2016 (for both breaches)
+What happened:
+Despite breaches occurring in 2013 and 2014, Yahoo only publicly disclosed them in 2016 during the Verizon acquisition process.
+What went wrong:
+•	Delayed detection (years after the breach)
+•	Delayed disclosure raised trust and legal issues
+•	Regulatory and public backlash
+Prevention:
+•	Breach detection and alerting systems
+•	Crisis communication planning
+•	Transparent disclosure protocols
+
+
