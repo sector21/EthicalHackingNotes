@@ -1,13 +1,13 @@
 | Profile Name | Username | Repo Count | EthicalHackingNotes-Christ Check |
 |---|---|---|---|
 | Ebinesh-03 | [Ebinesh-03](https://github.com/Ebinesh-03) | 3 | PASS |
-| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 11 | PASS |
+| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 12 | PASS |
 | SankaraNarayananS18 | [SankaraNarayananS18](https://github.com/SankaraNarayananS18) | 4 | PASS |
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 2 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 6 | PASS |
 | Abel0606 | [Abel0606](https://github.com/Abel0606) | 7 | PASS |
 | Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 7 | PASS |
-| joshuazacharyjose | [joshuazacharyjose](https://github.com/joshuazacharyjose) | 5 | PASS |
+| joshuazacharyjose | [joshuazacharyjose](https://github.com/joshuazacharyjose) | 6 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 5 | PASS |
 | Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 5 | PASS |
@@ -16,7 +16,7 @@
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 4 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 4 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 3 | PASS |
-| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 7 | PASS |
+| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 8 | PASS |
 | Alanjeorge2005 | [Alanjeorge2005](https://github.com/Alanjeorge2005) | 1 | FAIL |
 | SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 4 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 7 | PASS |
@@ -32,8 +32,8 @@
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 4 | PASS |
 | Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 7 | PASS |
 | SharonC-droid | [SharonC-droid](https://github.com/SharonC-droid) | 5 | PASS |
-| dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 6 | PASS |
-| Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 7 | PASS |
+| dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 7 | PASS |
+| Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 8 | PASS |
 | KARTHIK-RAJEEV | [KARTHIK-RAJEEV](https://github.com/KARTHIK-RAJEEV) | 5 | PASS |
 | adisankar-oss | [adisankar-oss](https://github.com/adisankar-oss) | 5 | PASS |
 | AnnmarieVinish | [AnnmarieVinish](https://github.com/AnnmarieVinish) | 5 | PASS |
