@@ -1,7 +1,7 @@
 | Profile Name | Username | Repo Count | EthicalHackingNotes-Christ Check |
 |---|---|---|---|
 | Ebinesh-03 | [Ebinesh-03](https://github.com/Ebinesh-03) | 3 | PASS |
-| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 12 | PASS |
+| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 14 | PASS |
 | SankaraNarayananS18 | [SankaraNarayananS18](https://github.com/SankaraNarayananS18) | 4 | PASS |
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 2 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 6 | PASS |
