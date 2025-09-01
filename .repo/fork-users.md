@@ -1,7 +1,7 @@
 | Profile Name | Username | Repo Count | EthicalHackingNotes-Christ Check |
 |---|---|---|---|
 | Ebinesh-03 | [Ebinesh-03](https://github.com/Ebinesh-03) | 3 | PASS |
-| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 14 | PASS |
+| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 16 | PASS |
 | SankaraNarayananS18 | [SankaraNarayananS18](https://github.com/SankaraNarayananS18) | 4 | PASS |
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 2 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 6 | PASS |
@@ -9,7 +9,7 @@
 | Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 7 | PASS |
 | joshuazacharyjose | [joshuazacharyjose](https://github.com/joshuazacharyjose) | 6 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
-| Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 5 | PASS |
+| Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 6 | PASS |
 | Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 5 | PASS |
 | B3ttina | [B3ttina](https://github.com/B3ttina) | 4 | PASS |
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 6 | PASS |
@@ -64,7 +64,7 @@
 | Ashweljohn | [Ashweljohn](https://github.com/Ashweljohn) | 8 | PASS |
 | Tiswin-Saji | [Tiswin-Saji](https://github.com/Tiswin-Saji) | 6 | PASS |
 | BasudevDileep | [BasudevDileep](https://github.com/BasudevDileep) | 4 | PASS |
-| AthreyRaj | [AthreyRaj](https://github.com/AthreyRaj) | 17 | FAIL |
+| AthreyRaj | [AthreyRaj](https://github.com/AthreyRaj) | 18 | FAIL |
 | hackershay | [hackershay](https://github.com/hackershay) | 4 | FAIL |
 | MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 6 | PASS |
 | Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 3 | PASS |
@@ -105,4 +105,4 @@
 | elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 3 | PASS |
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 3 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 2 | FAIL |
-| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 45 | FAIL |
+| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 47 | FAIL |
