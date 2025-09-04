@@ -1,7 +1,7 @@
 | Profile Name | Username | Repo Count | EthicalHackingNotes-Christ Check |
 |---|---|---|---|
 | Ebinesh-03 | [Ebinesh-03](https://github.com/Ebinesh-03) | 3 | PASS |
-| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 16 | PASS |
+| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 18 | PASS |
 | SankaraNarayananS18 | [SankaraNarayananS18](https://github.com/SankaraNarayananS18) | 4 | PASS |
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 2 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 6 | PASS |
@@ -51,7 +51,7 @@
 | A-M-K-x | [A-M-K-x](https://github.com/A-M-K-x) | 2 | FAIL |
 | samuelbiju13 | [samuelbiju13](https://github.com/samuelbiju13) | 3 | PASS |
 | joshuasantoshh | [joshuasantoshh](https://github.com/joshuasantoshh) | 5 | FAIL |
-| RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 5 | PASS |
+| RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 6 | PASS |
 | johnevin965 | [johnevin965](https://github.com/johnevin965) | 3 | FAIL |
 | Sartaj-IT | [Sartaj-IT](https://github.com/Sartaj-IT) | 4 | PASS |
 | Sankeeth-23 | [Sankeeth-23](https://github.com/Sankeeth-23) | 2 | PASS |
