@@ -1,7 +1,7 @@
 | Profile Name | Username | Repo Count | EthicalHackingNotes-Christ Check |
 |---|---|---|---|
 | Ebinesh-03 | [Ebinesh-03](https://github.com/Ebinesh-03) | 3 | PASS |
-| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 16 | PASS |
+| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 17 | PASS |
 | SankaraNarayananS18 | [SankaraNarayananS18](https://github.com/SankaraNarayananS18) | 4 | PASS |
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 2 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 6 | PASS |
@@ -105,4 +105,4 @@
 | elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 3 | PASS |
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 3 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 2 | FAIL |
-| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 47 | FAIL |
+| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 46 | FAIL |
