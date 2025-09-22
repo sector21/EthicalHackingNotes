@@ -15,10 +15,10 @@
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 6 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 4 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 4 | FAIL |
-| abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 3 | PASS |
-| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 9 | PASS |
+| abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 5 | PASS |
+| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 11 | PASS |
 | Alanjeorge2005 | [Alanjeorge2005](https://github.com/Alanjeorge2005) | 1 | FAIL |
-| SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 7 | PASS |
+| SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 9 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 7 | PASS |
 | Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 3 | PASS |
 | Deanjb3 | [Deanjb3](https://github.com/Deanjb3) | 3 | PASS |
@@ -94,7 +94,7 @@
 | SonalJoy10 | [SonalJoy10](https://github.com/SonalJoy10) | 5 | PASS |
 | RAAPPO | [RAAPPO](https://github.com/RAAPPO) | 5 | PASS |
 | bigdaddy110 | [bigdaddy110](https://github.com/bigdaddy110) | 3 | FAIL |
-| BarathCG | [BarathCG](https://github.com/BarathCG) | 3 | PASS |
+| BarathCG | [BarathCG](https://github.com/BarathCG) | 4 | PASS |
 | AmanVarunEkka | [AmanVarunEkka](https://github.com/AmanVarunEkka) | 3 | PASS |
 | GOKUL06092006 | [GOKUL06092006](https://github.com/GOKUL06092006) | 5 | PASS |
 | Abishek-gitit | [Abishek-gitit](https://github.com/Abishek-gitit) | 9 | PASS |
