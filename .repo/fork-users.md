@@ -16,8 +16,7 @@
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 4 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 6 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 5 | PASS |
-| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 13 | PASS |
-| Alanjeorge2005 | [Alanjeorge2005](https://github.com/Alanjeorge2005) | 1 | FAIL |
+| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 14 | PASS |
 | SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 9 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 8 | PASS |
 | Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 3 | PASS |
