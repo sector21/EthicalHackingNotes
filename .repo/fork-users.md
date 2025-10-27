@@ -7,7 +7,7 @@
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 7 | PASS |
 | Abel0606 | [Abel0606](https://github.com/Abel0606) | 9 | PASS |
 | Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 11 | PASS |
-| joshuazacharyjose | [joshuazacharyjose](https://github.com/joshuazacharyjose) | 8 | PASS |
+| joshuazacharyjose | [joshuazacharyjose](https://github.com/joshuazacharyjose) | 9 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 8 | PASS |
 | Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 7 | PASS |
