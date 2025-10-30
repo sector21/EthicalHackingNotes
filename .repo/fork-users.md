@@ -29,7 +29,7 @@
 | nithin811 | [nithin811](https://github.com/nithin811) | 6 | PASS |
 | NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 7 | PASS |
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 6 | PASS |
-| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 7 | PASS |
+| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 8 | PASS |
 | SharonC-droid | [SharonC-droid](https://github.com/SharonC-droid) | 7 | PASS |
 | dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 9 | PASS |
 | Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 10 | PASS |
@@ -104,4 +104,4 @@
 | elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 3 | PASS |
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 3 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 2 | FAIL |
-| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 47 | FAIL |
+| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 48 | FAIL |
