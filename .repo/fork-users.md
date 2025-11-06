@@ -29,7 +29,7 @@
 | nithin811 | [nithin811](https://github.com/nithin811) | 6 | PASS |
 | NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 7 | PASS |
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 6 | PASS |
-| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 9 | PASS |
+| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 10 | PASS |
 | SharonC-droid | [SharonC-droid](https://github.com/SharonC-droid) | 6 | PASS |
 | dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 9 | PASS |
 | Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 10 | PASS |
