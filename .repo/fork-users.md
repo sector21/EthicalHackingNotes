@@ -1,7 +1,7 @@
 | Profile Name | Username | Repo Count | EthicalHackingNotes-Christ Check |
 |---|---|---|---|
 | Ebinesh-03 | [Ebinesh-03](https://github.com/Ebinesh-03) | 4 | PASS |
-| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 18 | PASS |
+| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 19 | PASS |
 | SankaraNarayananS18 | [SankaraNarayananS18](https://github.com/SankaraNarayananS18) | 6 | PASS |
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 2 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 7 | PASS |
@@ -15,8 +15,8 @@
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 9 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 4 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 7 | FAIL |
-| abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 6 | PASS |
-| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 16 | PASS |
+| abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 8 | PASS |
+| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 17 | PASS |
 | SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 12 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 8 | PASS |
 | Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 3 | PASS |
@@ -27,9 +27,9 @@
 | Rachel-joy07 | [Rachel-joy07](https://github.com/Rachel-joy07) | 5 | PASS |
 | sasmitabtech | [sasmitabtech](https://github.com/sasmitabtech) | 9 | PASS |
 | nithin811 | [nithin811](https://github.com/nithin811) | 6 | PASS |
-| NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 7 | PASS |
+| NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 9 | PASS |
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 6 | PASS |
-| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 10 | PASS |
+| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 11 | PASS |
 | SharonC-droid | [SharonC-droid](https://github.com/SharonC-droid) | 6 | PASS |
 | dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 9 | PASS |
 | Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 10 | PASS |
@@ -42,7 +42,7 @@
 | sajidarryl | [sajidarryl](https://github.com/sajidarryl) | 3 | FAIL |
 | annmary-aaa | [annmary-aaa](https://github.com/annmary-aaa) | 4 | PASS |
 | krupa2412 | [krupa2412](https://github.com/krupa2412) | 3 | PASS |
-| samvrith66 | [samvrith66](https://github.com/samvrith66) | 4 | PASS |
+| samvrith66 | [samvrith66](https://github.com/samvrith66) | 5 | PASS |
 | Nikshitha2896 | [Nikshitha2896](https://github.com/Nikshitha2896) | 6 | PASS |
 | SnehaT23 | [SnehaT23](https://github.com/SnehaT23) | 9 | PASS |
 | tanushree-2006 | [tanushree-2006](https://github.com/tanushree-2006) | 5 | PASS |
@@ -57,7 +57,7 @@
 | AvrelPinto | [AvrelPinto](https://github.com/AvrelPinto) | 7 | PASS |
 | vedantjoshi18 | [vedantjoshi18](https://github.com/vedantjoshi18) | 6 | PASS |
 | Melwin-Thomas | [Melwin-Thomas](https://github.com/Melwin-Thomas) | 6 | PASS |
-| AlenSaijo | [AlenSaijo](https://github.com/AlenSaijo) | 4 | PASS |
+| AlenSaijo | [AlenSaijo](https://github.com/AlenSaijo) | 5 | PASS |
 | JohnJoby2006 | [JohnJoby2006](https://github.com/JohnJoby2006) | 11 | PASS |
 | Sreesanth200677 | [Sreesanth200677](https://github.com/Sreesanth200677) | 9 | PASS |
 | Ashweljohn | [Ashweljohn](https://github.com/Ashweljohn) | 11 | PASS |
@@ -88,9 +88,9 @@
 | jonac77 | [jonac77](https://github.com/jonac77) | 7 | PASS |
 | diyasusan-coder | [diyasusan-coder](https://github.com/diyasusan-coder) | 7 | PASS |
 | Fariha006 | [Fariha006](https://github.com/Fariha006) | 7 | PASS |
-| LeoRineeth | [LeoRineeth](https://github.com/LeoRineeth) | 8 | FAIL |
+| LeoRineeth | [LeoRineeth](https://github.com/LeoRineeth) | 9 | FAIL |
 | ArthurFigrous | [ArthurFigrous](https://github.com/ArthurFigrous) | 6 | FAIL |
-| SonalJoy10 | [SonalJoy10](https://github.com/SonalJoy10) | 8 | PASS |
+| SonalJoy10 | [SonalJoy10](https://github.com/SonalJoy10) | 9 | PASS |
 | RAAPPO | [RAAPPO](https://github.com/RAAPPO) | 8 | PASS |
 | bigdaddy110 | [bigdaddy110](https://github.com/bigdaddy110) | 3 | FAIL |
 | BarathCG | [BarathCG](https://github.com/BarathCG) | 4 | PASS |
