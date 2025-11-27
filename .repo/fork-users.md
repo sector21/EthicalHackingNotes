@@ -60,7 +60,7 @@
 | AlenSaijo | [AlenSaijo](https://github.com/AlenSaijo) | 5 | PASS |
 | JohnJoby2006 | [JohnJoby2006](https://github.com/JohnJoby2006) | 11 | PASS |
 | Sreesanth200677 | [Sreesanth200677](https://github.com/Sreesanth200677) | 9 | PASS |
-| Ashweljohn | [Ashweljohn](https://github.com/Ashweljohn) | 11 | PASS |
+| Ashweljohn | [Ashweljohn](https://github.com/Ashweljohn) | 12 | PASS |
 | Tiswin-Saji | [Tiswin-Saji](https://github.com/Tiswin-Saji) | 8 | PASS |
 | BasudevDileep | [BasudevDileep](https://github.com/BasudevDileep) | 4 | PASS |
 | AthreyRaj | [AthreyRaj](https://github.com/AthreyRaj) | 19 | FAIL |
@@ -104,4 +104,4 @@
 | elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 3 | PASS |
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 3 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 2 | FAIL |
-| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 48 | FAIL |
+| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 50 | FAIL |
