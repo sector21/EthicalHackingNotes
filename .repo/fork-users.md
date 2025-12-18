@@ -16,7 +16,7 @@
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 4 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 7 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 8 | PASS |
-| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 17 | PASS |
+| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 19 | PASS |
 | SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 12 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 8 | PASS |
 | Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 3 | PASS |
@@ -66,7 +66,7 @@
 | AthreyRaj | [AthreyRaj](https://github.com/AthreyRaj) | 19 | FAIL |
 | hackershay | [hackershay](https://github.com/hackershay) | 4 | FAIL |
 | MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 8 | PASS |
-| Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 3 | PASS |
+| Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 4 | PASS |
 | jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 5 | PASS |
 | Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 4 | FAIL |
 | Prisha-11-07 | [Prisha-11-07](https://github.com/Prisha-11-07) | 5 | PASS |
