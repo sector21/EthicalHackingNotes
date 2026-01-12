@@ -7,7 +7,7 @@
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 7 | PASS |
 | Abel0606 | [Abel0606](https://github.com/Abel0606) | 9 | PASS |
 | Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 13 | PASS |
-| joshuazacharyjose | [joshuazacharyjose](https://github.com/joshuazacharyjose) | 9 | PASS |
+| joshuazacharyjose | [joshuazacharyjose](https://github.com/joshuazacharyjose) | 10 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 8 | PASS |
 | Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 8 | PASS |
@@ -16,7 +16,7 @@
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 4 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 7 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 8 | PASS |
-| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 14 | PASS |
+| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 15 | PASS |
 | SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 12 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 8 | PASS |
 | Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 3 | PASS |
@@ -38,7 +38,7 @@
 | AnnmarieVinish | [AnnmarieVinish](https://github.com/AnnmarieVinish) | 9 | PASS |
 | AnamiiiikaM | [AnamiiiikaM](https://github.com/AnamiiiikaM) | 6 | PASS |
 | SREEHARIS16 | [SREEHARIS16](https://github.com/SREEHARIS16) | 5 | PASS |
-| chrisbaptist07 | [chrisbaptist07](https://github.com/chrisbaptist07) | 7 | PASS |
+| chrisbaptist07 | [chrisbaptist07](https://github.com/chrisbaptist07) | 8 | PASS |
 | sajidarryl | [sajidarryl](https://github.com/sajidarryl) | 3 | FAIL |
 | annmary-aaa | [annmary-aaa](https://github.com/annmary-aaa) | 4 | PASS |
 | krupa2412 | [krupa2412](https://github.com/krupa2412) | 3 | PASS |
@@ -50,7 +50,7 @@
 | A-M-K-x | [A-M-K-x](https://github.com/A-M-K-x) | 2 | FAIL |
 | samuelbiju13 | [samuelbiju13](https://github.com/samuelbiju13) | 3 | PASS |
 | joshuasantoshh | [joshuasantoshh](https://github.com/joshuasantoshh) | 7 | FAIL |
-| RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 7 | PASS |
+| RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 8 | PASS |
 | johnevin965 | [johnevin965](https://github.com/johnevin965) | 3 | FAIL |
 | Sartaj-IT | [Sartaj-IT](https://github.com/Sartaj-IT) | 4 | PASS |
 | Sankeeth-23 | [Sankeeth-23](https://github.com/Sankeeth-23) | 2 | PASS |
@@ -104,5 +104,5 @@
 | elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 3 | PASS |
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 3 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 2 | FAIL |
-| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 51 | FAIL |
+| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 53 | FAIL |
 | bbpatil | [bbpatil](https://github.com/bbpatil) | 512 | FAIL |
