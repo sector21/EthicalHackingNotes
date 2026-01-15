@@ -9,7 +9,7 @@
 | Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 13 | PASS |
 | joshuazacharyjose | [joshuazacharyjose](https://github.com/joshuazacharyjose) | 10 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
-| Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 8 | PASS |
+| Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 9 | PASS |
 | Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 8 | PASS |
 | B3ttina | [B3ttina](https://github.com/B3ttina) | 7 | PASS |
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 9 | PASS |
@@ -50,7 +50,7 @@
 | A-M-K-x | [A-M-K-x](https://github.com/A-M-K-x) | 2 | FAIL |
 | samuelbiju13 | [samuelbiju13](https://github.com/samuelbiju13) | 3 | PASS |
 | joshuasantoshh | [joshuasantoshh](https://github.com/joshuasantoshh) | 7 | FAIL |
-| RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 8 | PASS |
+| RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 9 | PASS |
 | johnevin965 | [johnevin965](https://github.com/johnevin965) | 3 | FAIL |
 | Sartaj-IT | [Sartaj-IT](https://github.com/Sartaj-IT) | 4 | PASS |
 | Sankeeth-23 | [Sankeeth-23](https://github.com/Sankeeth-23) | 2 | PASS |
@@ -60,7 +60,7 @@
 | AlenSaijo | [AlenSaijo](https://github.com/AlenSaijo) | 5 | PASS |
 | JohnJoby2006 | [JohnJoby2006](https://github.com/JohnJoby2006) | 11 | PASS |
 | Sreesanth200677 | [Sreesanth200677](https://github.com/Sreesanth200677) | 9 | PASS |
-| Ashweljohn | [Ashweljohn](https://github.com/Ashweljohn) | 12 | PASS |
+| Ashweljohn | [Ashweljohn](https://github.com/Ashweljohn) | 13 | PASS |
 | Tiswin-Saji | [Tiswin-Saji](https://github.com/Tiswin-Saji) | 8 | PASS |
 | BasudevDileep | [BasudevDileep](https://github.com/BasudevDileep) | 4 | PASS |
 | AthreyRaj | [AthreyRaj](https://github.com/AthreyRaj) | 19 | FAIL |
@@ -97,12 +97,12 @@
 | AmanVarunEkka | [AmanVarunEkka](https://github.com/AmanVarunEkka) | 3 | PASS |
 | GOKUL06092006 | [GOKUL06092006](https://github.com/GOKUL06092006) | 6 | PASS |
 | Abishek-gitit | [Abishek-gitit](https://github.com/Abishek-gitit) | 10 | PASS |
-| Ridhi105 | [Ridhi105](https://github.com/Ridhi105) | 3 | PASS |
+| Ridhi105 | [Ridhi105](https://github.com/Ridhi105) | 4 | PASS |
 | MINEAMICHEAL | [MINEAMICHEAL](https://github.com/MINEAMICHEAL) | 5 | PASS |
 | Prajin-30 | [Prajin-30](https://github.com/Prajin-30) | 4 | PASS |
 | Tenzin-Choeying1 | [Tenzin-Choeying1](https://github.com/Tenzin-Choeying1) | 6 | FAIL |
-| elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 3 | PASS |
+| elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 4 | PASS |
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 3 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 2 | FAIL |
-| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 53 | FAIL |
+| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 55 | FAIL |
 | bbpatil | [bbpatil](https://github.com/bbpatil) | 512 | FAIL |
