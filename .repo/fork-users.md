@@ -16,8 +16,8 @@
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 8 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 8 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 9 | PASS |
-| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 15 | PASS |
-| SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 15 | PASS |
+| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 16 | PASS |
+| SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 17 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 10 | PASS |
 | Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 3 | PASS |
 | Deanjb3 | [Deanjb3](https://github.com/Deanjb3) | 6 | PASS |
@@ -76,7 +76,7 @@
 | SriRam-0511 | [SriRam-0511](https://github.com/SriRam-0511) | 2 | PASS |
 | Monisha71 | [Monisha71](https://github.com/Monisha71) | 3 | PASS |
 | JemimahAnna | [JemimahAnna](https://github.com/JemimahAnna) | 6 | PASS |
-| Reuben-Sunish | [Reuben-Sunish](https://github.com/Reuben-Sunish) | 6 | PASS |
+| Reuben-Sunish | [Reuben-Sunish](https://github.com/Reuben-Sunish) | 7 | PASS |
 | maxine-23 | [maxine-23](https://github.com/maxine-23) | 8 | PASS |
 | Rhea-gracy | [Rhea-gracy](https://github.com/Rhea-gracy) | 8 | PASS |
 | Stacydsouza | [Stacydsouza](https://github.com/Stacydsouza) | 4 | PASS |
@@ -104,5 +104,5 @@
 | elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 5 | PASS |
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 3 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 2 | FAIL |
-| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 57 | FAIL |
+| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 58 | FAIL |
 | bbpatil | [bbpatil](https://github.com/bbpatil) | 512 | FAIL |
