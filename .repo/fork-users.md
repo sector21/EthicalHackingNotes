@@ -10,7 +10,7 @@
 | jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 13 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 11 | PASS |
-| Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 16 | PASS |
+| Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 17 | PASS |
 | B3ttina | [B3ttina](https://github.com/B3ttina) | 8 | PASS |
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 12 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 8 | PASS |
@@ -50,7 +50,7 @@
 | A-M-K-x | [A-M-K-x](https://github.com/A-M-K-x) | 2 | FAIL |
 | samuelbiju13 | [samuelbiju13](https://github.com/samuelbiju13) | 5 | PASS |
 | joshuasantoshh | [joshuasantoshh](https://github.com/joshuasantoshh) | 11 | FAIL |
-| RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 16 | PASS |
+| RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 17 | PASS |
 | johnevin965 | [johnevin965](https://github.com/johnevin965) | 3 | FAIL |
 | Sartaj-IT | [Sartaj-IT](https://github.com/Sartaj-IT) | 5 | PASS |
 | Sankeeth-23 | [Sankeeth-23](https://github.com/Sankeeth-23) | 2 | PASS |
@@ -63,12 +63,12 @@
 | Tiswin-Saji | [Tiswin-Saji](https://github.com/Tiswin-Saji) | 8 | PASS |
 | BasudevDileep | [BasudevDileep](https://github.com/BasudevDileep) | 6 | PASS |
 | AthreyRaj | [AthreyRaj](https://github.com/AthreyRaj) | 19 | FAIL |
-| hackershay | [hackershay](https://github.com/hackershay) | 8 | FAIL |
-| MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 10 | PASS |
+| hackershay | [hackershay](https://github.com/hackershay) | 9 | FAIL |
+| MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 11 | PASS |
 | Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 5 | PASS |
 | jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 6 | PASS |
 | Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 14 | FAIL |
-| Prisha-11-07 | [Prisha-11-07](https://github.com/Prisha-11-07) | 7 | PASS |
+| Prisha-11-07 | [Prisha-11-07](https://github.com/Prisha-11-07) | 8 | PASS |
 | Aksa-006 | [Aksa-006](https://github.com/Aksa-006) | 4 | PASS |
 | SanjanaSudhir | [SanjanaSudhir](https://github.com/SanjanaSudhir) | 5 | PASS |
 | JoshinyMaria | [JoshinyMaria](https://github.com/JoshinyMaria) | 2 | PASS |
