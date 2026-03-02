@@ -1,7 +1,7 @@
 | Profile Name | Username | Repo Count | EthicalHackingNotes-Christ Check |
 |---|---|---|---|
 | Ebinesh-03 | [Ebinesh-03](https://github.com/Ebinesh-03) | 5 | PASS |
-| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 18 | PASS |
+| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 19 | PASS |
 | SankaraNarayananS18 | [SankaraNarayananS18](https://github.com/SankaraNarayananS18) | 11 | PASS |
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 6 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 8 | PASS |
@@ -10,11 +10,11 @@
 | jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 13 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 11 | PASS |
-| Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 17 | PASS |
+| Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 18 | PASS |
 | B3ttina | [B3ttina](https://github.com/B3ttina) | 8 | PASS |
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 12 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 8 | PASS |
-| alfindigo | [alfindigo](https://github.com/alfindigo) | 8 | FAIL |
+| alfindigo | [alfindigo](https://github.com/alfindigo) | 10 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 9 | PASS |
 | Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 19 | PASS |
 | SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 18 | PASS |
@@ -23,7 +23,7 @@
 | Deanjb3 | [Deanjb3](https://github.com/Deanjb3) | 6 | PASS |
 | ishaZaara | [ishaZaara](https://github.com/ishaZaara) | 9 | PASS |
 | JoyAanchalRose | [JoyAanchalRose](https://github.com/JoyAanchalRose) | 5 | PASS |
-| Ramya-9739 | [Ramya-9739](https://github.com/Ramya-9739) | 7 | PASS |
+| Ramya-9739 | [Ramya-9739](https://github.com/Ramya-9739) | 8 | PASS |
 | Rachel-joy07 | [Rachel-joy07](https://github.com/Rachel-joy07) | 8 | PASS |
 | sasmitabtech | [sasmitabtech](https://github.com/sasmitabtech) | 12 | PASS |
 | nithin811 | [nithin811](https://github.com/nithin811) | 6 | PASS |
@@ -40,7 +40,7 @@
 | SREEHARIS16 | [SREEHARIS16](https://github.com/SREEHARIS16) | 8 | PASS |
 | chrisbaptist07 | [chrisbaptist07](https://github.com/chrisbaptist07) | 9 | PASS |
 | sajidarryl | [sajidarryl](https://github.com/sajidarryl) | 3 | FAIL |
-| annmary-aaa | [annmary-aaa](https://github.com/annmary-aaa) | 7 | PASS |
+| annmary-aaa | [annmary-aaa](https://github.com/annmary-aaa) | 8 | PASS |
 | krupa2412 | [krupa2412](https://github.com/krupa2412) | 4 | PASS |
 | samvrith66 | [samvrith66](https://github.com/samvrith66) | 8 | PASS |
 | Nikshitha2896 | [Nikshitha2896](https://github.com/Nikshitha2896) | 6 | PASS |
@@ -68,7 +68,7 @@
 | Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 5 | PASS |
 | jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 6 | PASS |
 | Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 14 | FAIL |
-| Prisha-11-07 | [Prisha-11-07](https://github.com/Prisha-11-07) | 8 | PASS |
+| Prisha-11-07 | [Prisha-11-07](https://github.com/Prisha-11-07) | 9 | PASS |
 | Aksa-006 | [Aksa-006](https://github.com/Aksa-006) | 4 | PASS |
 | SanjanaSudhir | [SanjanaSudhir](https://github.com/SanjanaSudhir) | 5 | PASS |
 | JoshinyMaria | [JoshinyMaria](https://github.com/JoshinyMaria) | 2 | PASS |
@@ -103,6 +103,6 @@
 | elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 5 | PASS |
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 3 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 2 | FAIL |
-| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 60 | FAIL |
+| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 62 | FAIL |
 | bbpatil | [bbpatil](https://github.com/bbpatil) | 512 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 10 | FAIL |
