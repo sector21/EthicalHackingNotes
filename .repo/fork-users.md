@@ -10,7 +10,7 @@
 | jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 13 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 11 | PASS |
-| Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 18 | PASS |
+| Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 16 | PASS |
 | B3ttina | [B3ttina](https://github.com/B3ttina) | 8 | PASS |
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 12 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 8 | PASS |
