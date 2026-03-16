@@ -17,7 +17,7 @@
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 10 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 10 | PASS |
 | Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 19 | PASS |
-| SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 18 | PASS |
+| SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 19 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 10 | PASS |
 | Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 3 | PASS |
 | Deanjb3 | [Deanjb3](https://github.com/Deanjb3) | 6 | PASS |
@@ -104,5 +104,5 @@
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 6 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 2 | FAIL |
 | Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 62 | FAIL |
-| bbpatil | [bbpatil](https://github.com/bbpatil) | 512 | FAIL |
+| bbpatil | [bbpatil](https://github.com/bbpatil) | 513 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 12 | FAIL |
