@@ -7,13 +7,13 @@
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 8 | PASS |
 | Abel0606 | [Abel0606](https://github.com/Abel0606) | 11 | PASS |
 | Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 14 | PASS |
-| jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 14 | PASS |
+| jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 15 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 11 | PASS |
 | Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 17 | PASS |
 | B3ttina | [B3ttina](https://github.com/B3ttina) | 8 | PASS |
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 12 | PASS |
-| Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 10 | PASS |
+| Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 9 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 10 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 10 | PASS |
 | Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 19 | PASS |
@@ -62,7 +62,7 @@
 | Ashweljohn | [Ashweljohn](https://github.com/Ashweljohn) | 17 | PASS |
 | Tiswin-Saji | [Tiswin-Saji](https://github.com/Tiswin-Saji) | 8 | PASS |
 | BasudevDileep | [BasudevDileep](https://github.com/BasudevDileep) | 10 | PASS |
-| AthreyRaj | [AthreyRaj](https://github.com/AthreyRaj) | 19 | FAIL |
+| AthreyRaj | [AthreyRaj](https://github.com/AthreyRaj) | 18 | FAIL |
 | shayliz | [shayliz](https://github.com/shayliz) | 10 | FAIL |
 | MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 11 | PASS |
 | Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 5 | PASS |
