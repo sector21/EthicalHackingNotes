@@ -13,7 +13,7 @@
 | Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 17 | PASS |
 | B3ttina | [B3ttina](https://github.com/B3ttina) | 8 | PASS |
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 12 | PASS |
-| Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 9 | PASS |
+| Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 10 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 10 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 10 | PASS |
 | Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 19 | PASS |
@@ -102,7 +102,7 @@
 | Tenzin-Choeying1 | [Tenzin-Choeying1](https://github.com/Tenzin-Choeying1) | 10 | FAIL |
 | elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 5 | PASS |
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 6 | PASS |
-| moonknight96 | [moonknight96](https://github.com/moonknight96) | 2 | FAIL |
+| moonknight96 | [moonknight96](https://github.com/moonknight96) | 3 | FAIL |
 | Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 62 | FAIL |
-| bbpatil | [bbpatil](https://github.com/bbpatil) | 516 | FAIL |
+| bbpatil | [bbpatil](https://github.com/bbpatil) | 517 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 12 | FAIL |
