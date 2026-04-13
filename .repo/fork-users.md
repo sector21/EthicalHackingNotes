@@ -26,7 +26,7 @@
 | Ramya-9739 | [Ramya-9739](https://github.com/Ramya-9739) | 8 | PASS |
 | Rachel-joy07 | [Rachel-joy07](https://github.com/Rachel-joy07) | 8 | PASS |
 | sasmitabtech | [sasmitabtech](https://github.com/sasmitabtech) | 12 | PASS |
-| nithin811 | [nithin811](https://github.com/nithin811) | 6 | PASS |
+| nithin811 | [nithin811](https://github.com/nithin811) | 13 | PASS |
 | NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 10 | PASS |
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 6 | PASS |
 | Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 15 | PASS |
@@ -50,7 +50,7 @@
 | A-M-K-x | [A-M-K-x](https://github.com/A-M-K-x) | 2 | FAIL |
 | samuelbiju13 | [samuelbiju13](https://github.com/samuelbiju13) | 7 | PASS |
 | joshuasantoshh | [joshuasantoshh](https://github.com/joshuasantoshh) | 11 | FAIL |
-| RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 20 | PASS |
+| RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 21 | PASS |
 | johnevin965 | [johnevin965](https://github.com/johnevin965) | 3 | FAIL |
 | Sartaj-IT | [Sartaj-IT](https://github.com/Sartaj-IT) | 5 | PASS |
 | Sankeeth-23 | [Sankeeth-23](https://github.com/Sankeeth-23) | 2 | PASS |
