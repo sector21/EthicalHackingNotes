@@ -70,7 +70,7 @@
 | Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 15 | FAIL |
 | Prisha-11-07 | [Prisha-11-07](https://github.com/Prisha-11-07) | 10 | PASS |
 | Aksa-006 | [Aksa-006](https://github.com/Aksa-006) | 4 | PASS |
-| SanjanaSudhir | [SanjanaSudhir](https://github.com/SanjanaSudhir) | 6 | PASS |
+| SanjanaSudhir | [SanjanaSudhir](https://github.com/SanjanaSudhir) | 7 | PASS |
 | JoshinyMaria | [JoshinyMaria](https://github.com/JoshinyMaria) | 2 | PASS |
 | SriRam-0511 | [SriRam-0511](https://github.com/SriRam-0511) | 2 | PASS |
 | Monisha71 | [Monisha71](https://github.com/Monisha71) | 3 | PASS |
