@@ -14,7 +14,7 @@
 | B3ttina | [B3ttina](https://github.com/B3ttina) | 8 | PASS |
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 12 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 10 | PASS |
-| alfindigo | [alfindigo](https://github.com/alfindigo) | 14 | FAIL |
+| alfindigo | [alfindigo](https://github.com/alfindigo) | 15 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 10 | PASS |
 | Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 19 | PASS |
 | SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 19 | PASS |
@@ -90,7 +90,7 @@
 | LeoRineeth | [LeoRineeth](https://github.com/LeoRineeth) | 10 | FAIL |
 | ArthurFigrous | [ArthurFigrous](https://github.com/ArthurFigrous) | 6 | FAIL |
 | SonalJoy10 | [SonalJoy10](https://github.com/SonalJoy10) | 10 | PASS |
-| raappo | [raappo](https://github.com/raappo) | 13 | PASS |
+| raappo | [raappo](https://github.com/raappo) | 16 | PASS |
 | bigdaddy110 | [bigdaddy110](https://github.com/bigdaddy110) | 3 | FAIL |
 | BarathCG | [BarathCG](https://github.com/BarathCG) | 7 | PASS |
 | AmanVarunEkka | [AmanVarunEkka](https://github.com/AmanVarunEkka) | 3 | PASS |
