@@ -31,7 +31,7 @@
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 6 | PASS |
 | Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 17 | PASS |
 | SharonC-droid | [SharonC-droid](https://github.com/SharonC-droid) | 7 | PASS |
-| dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 12 | PASS |
+| dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 13 | PASS |
 | Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 15 | PASS |
 | KARTHIK-RAJEEV | [KARTHIK-RAJEEV](https://github.com/KARTHIK-RAJEEV) | 9 | PASS |
 | adisankar-oss | [adisankar-oss](https://github.com/adisankar-oss) | 8 | PASS |
@@ -103,6 +103,6 @@
 | elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 5 | PASS |
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 6 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 3 | FAIL |
-| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 62 | FAIL |
-| bbpatil | [bbpatil](https://github.com/bbpatil) | 523 | FAIL |
+| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 63 | FAIL |
+| bbpatil | [bbpatil](https://github.com/bbpatil) | 524 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 12 | FAIL |
