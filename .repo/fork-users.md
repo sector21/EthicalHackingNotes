@@ -1,7 +1,7 @@
 | Profile Name | Username | Repo Count | EthicalHackingNotes-Christ Check |
 |---|---|---|---|
 | Ebinesh-03 | [Ebinesh-03](https://github.com/Ebinesh-03) | 5 | PASS |
-| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 20 | PASS |
+| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 21 | PASS |
 | SankaraNarayananS18 | [SankaraNarayananS18](https://github.com/SankaraNarayananS18) | 11 | PASS |
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 7 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 8 | PASS |
@@ -32,7 +32,7 @@
 | Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 17 | PASS |
 | SharonC-droid | [SharonC-droid](https://github.com/SharonC-droid) | 7 | PASS |
 | dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 13 | PASS |
-| Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 15 | PASS |
+| Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 16 | PASS |
 | KARTHIK-RAJEEV | [KARTHIK-RAJEEV](https://github.com/KARTHIK-RAJEEV) | 9 | PASS |
 | adisankar-oss | [adisankar-oss](https://github.com/adisankar-oss) | 8 | PASS |
 | AnnmarieVinish | [AnnmarieVinish](https://github.com/AnnmarieVinish) | 10 | PASS |
@@ -87,7 +87,7 @@
 | jonac77 | [jonac77](https://github.com/jonac77) | 8 | PASS |
 | diyasusan-coder | [diyasusan-coder](https://github.com/diyasusan-coder) | 9 | PASS |
 | Fariha006 | [Fariha006](https://github.com/Fariha006) | 8 | PASS |
-| LeoRineeth | [LeoRineeth](https://github.com/LeoRineeth) | 10 | FAIL |
+| LeoRineeth | [LeoRineeth](https://github.com/LeoRineeth) | 11 | FAIL |
 | ArthurFigrous | [ArthurFigrous](https://github.com/ArthurFigrous) | 6 | FAIL |
 | SonalJoy10 | [SonalJoy10](https://github.com/SonalJoy10) | 10 | PASS |
 | raappo | [raappo](https://github.com/raappo) | 16 | PASS |
@@ -104,5 +104,5 @@
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 6 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 3 | FAIL |
 | Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 63 | FAIL |
-| bbpatil | [bbpatil](https://github.com/bbpatil) | 525 | FAIL |
+| bbpatil | [bbpatil](https://github.com/bbpatil) | 526 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 12 | FAIL |
