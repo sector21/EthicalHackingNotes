@@ -80,7 +80,7 @@
 | Rhea-gracy | [Rhea-gracy](https://github.com/Rhea-gracy) | 10 | PASS |
 | Stacydsouza | [Stacydsouza](https://github.com/Stacydsouza) | 9 | PASS |
 | jfs1336 | [jfs1336](https://github.com/jfs1336) | 8 | FAIL |
-| Tom-boby | [Tom-boby](https://github.com/Tom-boby) | 13 | PASS |
+| Tom-boby | [Tom-boby](https://github.com/Tom-boby) | 14 | PASS |
 | TenzinRigzin2460462 | [TenzinRigzin2460462](https://github.com/TenzinRigzin2460462) | 11 | PASS |
 | AntonyPraveenReddyK | [AntonyPraveenReddyK](https://github.com/AntonyPraveenReddyK) | 12 | FAIL |
 | aadithyavimal-christ | [aadithyavimal-christ](https://github.com/aadithyavimal-christ) | 4 | PASS |
@@ -90,7 +90,7 @@
 | LeoRineeth | [LeoRineeth](https://github.com/LeoRineeth) | 11 | FAIL |
 | ArthurFigrous | [ArthurFigrous](https://github.com/ArthurFigrous) | 6 | FAIL |
 | SonalJoy10 | [SonalJoy10](https://github.com/SonalJoy10) | 10 | PASS |
-| raappo | [raappo](https://github.com/raappo) | 16 | PASS |
+| raappo | [raappo](https://github.com/raappo) | 17 | PASS |
 | bigdaddy110 | [bigdaddy110](https://github.com/bigdaddy110) | 3 | FAIL |
 | BarathCG | [BarathCG](https://github.com/BarathCG) | 7 | PASS |
 | AmanVarunEkka | [AmanVarunEkka](https://github.com/AmanVarunEkka) | 3 | PASS |
@@ -104,5 +104,5 @@
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 6 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 3 | FAIL |
 | Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 63 | FAIL |
-| bbpatil | [bbpatil](https://github.com/bbpatil) | 526 | FAIL |
+| bbpatil | [bbpatil](https://github.com/bbpatil) | 527 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 12 | FAIL |
