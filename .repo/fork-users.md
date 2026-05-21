@@ -6,7 +6,7 @@
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 7 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 8 | PASS |
 | Abel0606 | [Abel0606](https://github.com/Abel0606) | 11 | PASS |
-| Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 14 | PASS |
+| Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 15 | PASS |
 | jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 18 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 11 | PASS |
@@ -25,7 +25,7 @@
 | JoyAanchalRose | [JoyAanchalRose](https://github.com/JoyAanchalRose) | 5 | PASS |
 | Ramya-9739 | [Ramya-9739](https://github.com/Ramya-9739) | 8 | PASS |
 | Rachel-joy07 | [Rachel-joy07](https://github.com/Rachel-joy07) | 8 | PASS |
-| sasmitabtech | [sasmitabtech](https://github.com/sasmitabtech) | 12 | PASS |
+| sasmitabtech | [sasmitabtech](https://github.com/sasmitabtech) | 13 | PASS |
 | nithin811 | [nithin811](https://github.com/nithin811) | 13 | PASS |
 | NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 10 | PASS |
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 6 | PASS |
@@ -46,7 +46,7 @@
 | Nikshitha2896 | [Nikshitha2896](https://github.com/Nikshitha2896) | 6 | PASS |
 | SnehaT23 | [SnehaT23](https://github.com/SnehaT23) | 9 | PASS |
 | tanushree-2006 | [tanushree-2006](https://github.com/tanushree-2006) | 5 | PASS |
-| alvinjobi4 | [alvinjobi4](https://github.com/alvinjobi4) | 10 | FAIL |
+| alvinjobi4 | [alvinjobi4](https://github.com/alvinjobi4) | 11 | FAIL |
 | A-M-K-x | [A-M-K-x](https://github.com/A-M-K-x) | 2 | FAIL |
 | samuelbiju13 | [samuelbiju13](https://github.com/samuelbiju13) | 7 | PASS |
 | joshuasantoshh | [joshuasantoshh](https://github.com/joshuasantoshh) | 11 | FAIL |
@@ -104,5 +104,5 @@
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 6 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 3 | FAIL |
 | Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 63 | FAIL |
-| bbpatil | [bbpatil](https://github.com/bbpatil) | 527 | FAIL |
+| bbpatil | [bbpatil](https://github.com/bbpatil) | 528 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 12 | FAIL |
