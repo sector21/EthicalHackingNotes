@@ -6,7 +6,7 @@
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 7 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 8 | PASS |
 | Abel0606 | [Abel0606](https://github.com/Abel0606) | 11 | PASS |
-| Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 16 | PASS |
+| Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 17 | PASS |
 | jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 18 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 11 | PASS |
@@ -66,7 +66,7 @@
 | shayliz | [shayliz](https://github.com/shayliz) | 10 | FAIL |
 | MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 14 | PASS |
 | Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 5 | PASS |
-| jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 6 | PASS |
+| jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 7 | PASS |
 | Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 17 | FAIL |
 | Prisha-11-07 | [Prisha-11-07](https://github.com/Prisha-11-07) | 10 | PASS |
 | Aksa-006 | [Aksa-006](https://github.com/Aksa-006) | 4 | PASS |
@@ -101,8 +101,8 @@
 | Prajin-30 | [Prajin-30](https://github.com/Prajin-30) | 4 | PASS |
 | Tenzin-Choeying1 | [Tenzin-Choeying1](https://github.com/Tenzin-Choeying1) | 10 | FAIL |
 | elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 5 | PASS |
-| lijo6666 | [lijo6666](https://github.com/lijo6666) | 6 | PASS |
+| lijo6666 | [lijo6666](https://github.com/lijo6666) | 9 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 3 | FAIL |
 | Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 62 | FAIL |
-| bbpatil | [bbpatil](https://github.com/bbpatil) | 530 | FAIL |
+| bbpatil | [bbpatil](https://github.com/bbpatil) | 531 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 12 | FAIL |
