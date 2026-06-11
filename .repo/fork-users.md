@@ -66,8 +66,8 @@
 | shayliz | [shayliz](https://github.com/shayliz) | 10 | FAIL |
 | MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 15 | PASS |
 | Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 5 | PASS |
-| jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 8 | PASS |
-| Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 17 | FAIL |
+| jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 9 | PASS |
+| Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 18 | FAIL |
 | Prisha-11-07 | [Prisha-11-07](https://github.com/Prisha-11-07) | 10 | PASS |
 | Aksa-006 | [Aksa-006](https://github.com/Aksa-006) | 4 | PASS |
 | SanjanaSudhir | [SanjanaSudhir](https://github.com/SanjanaSudhir) | 7 | PASS |
@@ -96,7 +96,7 @@
 | AmanVarunEkka | [AmanVarunEkka](https://github.com/AmanVarunEkka) | 3 | PASS |
 | GOKUL06092006 | [GOKUL06092006](https://github.com/GOKUL06092006) | 11 | PASS |
 | Abishek-gitit | [Abishek-gitit](https://github.com/Abishek-gitit) | 13 | PASS |
-| Ridhi105 | [Ridhi105](https://github.com/Ridhi105) | 4 | PASS |
+| Ridhi105 | [Ridhi105](https://github.com/Ridhi105) | 7 | PASS |
 | MINEAMICHEAL | [MINEAMICHEAL](https://github.com/MINEAMICHEAL) | 5 | PASS |
 | Prajin-30 | [Prajin-30](https://github.com/Prajin-30) | 4 | PASS |
 | Tenzin-Choeying1 | [Tenzin-Choeying1](https://github.com/Tenzin-Choeying1) | 10 | FAIL |
@@ -104,5 +104,5 @@
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 9 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 3 | FAIL |
 | Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 62 | FAIL |
-| bbpatil | [bbpatil](https://github.com/bbpatil) | 532 | FAIL |
+| bbpatil | [bbpatil](https://github.com/bbpatil) | 534 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 12 | FAIL |
