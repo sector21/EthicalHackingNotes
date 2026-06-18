@@ -10,7 +10,7 @@
 | jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 18 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 11 | PASS |
-| Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 18 | PASS |
+| Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 17 | PASS |
 | B3ttina | [B3ttina](https://github.com/B3ttina) | 8 | PASS |
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 13 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 10 | PASS |
@@ -29,10 +29,10 @@
 | nithin811 | [nithin811](https://github.com/nithin811) | 13 | PASS |
 | NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 10 | PASS |
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 6 | PASS |
-| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 17 | PASS |
+| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 18 | PASS |
 | SharonC-droid | [SharonC-droid](https://github.com/SharonC-droid) | 7 | PASS |
 | dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 14 | PASS |
-| Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 16 | PASS |
+| Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 17 | PASS |
 | KARTHIK-RAJEEV | [KARTHIK-RAJEEV](https://github.com/KARTHIK-RAJEEV) | 9 | PASS |
 | adisankar-oss | [adisankar-oss](https://github.com/adisankar-oss) | 8 | PASS |
 | AnnmarieVinish | [AnnmarieVinish](https://github.com/AnnmarieVinish) | 10 | PASS |
@@ -66,7 +66,7 @@
 | shayliz | [shayliz](https://github.com/shayliz) | 10 | FAIL |
 | MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 16 | PASS |
 | Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 5 | PASS |
-| jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 9 | PASS |
+| jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 10 | PASS |
 | Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 18 | FAIL |
 | Prisha-11-07 | [Prisha-11-07](https://github.com/Prisha-11-07) | 10 | PASS |
 | Aksa-006 | [Aksa-006](https://github.com/Aksa-006) | 4 | PASS |
@@ -103,5 +103,5 @@
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 9 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 3 | FAIL |
 | Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 62 | FAIL |
-| bbpatil | [bbpatil](https://github.com/bbpatil) | 538 | FAIL |
+| bbpatil | [bbpatil](https://github.com/bbpatil) | 540 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 12 | FAIL |
