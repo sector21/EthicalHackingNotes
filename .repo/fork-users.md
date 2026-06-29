@@ -26,13 +26,13 @@
 | Ramya-9739 | [Ramya-9739](https://github.com/Ramya-9739) | 8 | PASS |
 | Rachel-joy07 | [Rachel-joy07](https://github.com/Rachel-joy07) | 8 | PASS |
 | sasmitabtech | [sasmitabtech](https://github.com/sasmitabtech) | 14 | PASS |
-| nithin811 | [nithin811](https://github.com/nithin811) | 13 | PASS |
+| nithin811 | [nithin811](https://github.com/nithin811) | 14 | PASS |
 | NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 10 | PASS |
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 6 | PASS |
 | Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 20 | PASS |
 | SharonC-droid | [SharonC-droid](https://github.com/SharonC-droid) | 8 | PASS |
 | dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 15 | PASS |
-| Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 18 | PASS |
+| Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 20 | PASS |
 | KARTHIK-RAJEEV | [KARTHIK-RAJEEV](https://github.com/KARTHIK-RAJEEV) | 9 | PASS |
 | adisankar-oss | [adisankar-oss](https://github.com/adisankar-oss) | 8 | PASS |
 | AnnmarieVinish | [AnnmarieVinish](https://github.com/AnnmarieVinish) | 10 | PASS |
@@ -46,10 +46,10 @@
 | Nikshitha2896 | [Nikshitha2896](https://github.com/Nikshitha2896) | 6 | PASS |
 | SnehaT23 | [SnehaT23](https://github.com/SnehaT23) | 11 | PASS |
 | tanushree-2006 | [tanushree-2006](https://github.com/tanushree-2006) | 5 | PASS |
-| alvinjobi4 | [alvinjobi4](https://github.com/alvinjobi4) | 13 | FAIL |
+| alvinjobi4 | [alvinjobi4](https://github.com/alvinjobi4) | 14 | FAIL |
 | A-M-K-x | [A-M-K-x](https://github.com/A-M-K-x) | 2 | FAIL |
 | samuelbiju13 | [samuelbiju13](https://github.com/samuelbiju13) | 8 | PASS |
-| joshuasantoshh | [joshuasantoshh](https://github.com/joshuasantoshh) | 11 | FAIL |
+| joshuasantoshh | [joshuasantoshh](https://github.com/joshuasantoshh) | 13 | FAIL |
 | RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 22 | PASS |
 | johnevin965 | [johnevin965](https://github.com/johnevin965) | 3 | FAIL |
 | Sartaj-IT | [Sartaj-IT](https://github.com/Sartaj-IT) | 5 | PASS |
@@ -103,5 +103,5 @@
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 9 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 3 | FAIL |
 | Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 62 | FAIL |
-| bbpatil | [bbpatil](https://github.com/bbpatil) | 543 | FAIL |
+| bbpatil | [bbpatil](https://github.com/bbpatil) | 547 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 12 | FAIL |
