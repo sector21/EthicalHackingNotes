@@ -17,7 +17,7 @@
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 16 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 11 | PASS |
 | Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 21 | PASS |
-| SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 22 | PASS |
+| SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 23 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 10 | PASS |
 | Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 4 | PASS |
 | Deanjb3 | [Deanjb3](https://github.com/Deanjb3) | 6 | PASS |
@@ -95,7 +95,7 @@
 | BarathCG | [BarathCG](https://github.com/BarathCG) | 7 | PASS |
 | AmanVarunEkka | [AmanVarunEkka](https://github.com/AmanVarunEkka) | 3 | PASS |
 | GOKUL06092006 | [GOKUL06092006](https://github.com/GOKUL06092006) | 11 | PASS |
-| Abishek-gitit | [Abishek-gitit](https://github.com/Abishek-gitit) | 13 | PASS |
+| Abishek-gitit | [Abishek-gitit](https://github.com/Abishek-gitit) | 15 | PASS |
 | MINEAMICHEAL | [MINEAMICHEAL](https://github.com/MINEAMICHEAL) | 5 | PASS |
 | Prajin-30 | [Prajin-30](https://github.com/Prajin-30) | 6 | PASS |
 | Tenzin-Choeying1 | [Tenzin-Choeying1](https://github.com/Tenzin-Choeying1) | 10 | FAIL |
