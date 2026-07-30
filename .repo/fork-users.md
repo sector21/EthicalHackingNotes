@@ -1,7 +1,7 @@
 | Profile Name | Username | Repo Count | EthicalHackingNotes-Christ Check |
 |---|---|---|---|
 | Ebinesh-03 | [Ebinesh-03](https://github.com/Ebinesh-03) | 5 | PASS |
-| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 22 | PASS |
+| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 24 | PASS |
 | SankaraNarayananS18 | [SankaraNarayananS18](https://github.com/SankaraNarayananS18) | 11 | PASS |
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 9 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 10 | PASS |
@@ -15,8 +15,8 @@
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 14 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 12 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 17 | FAIL |
-| abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 11 | PASS |
-| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 21 | PASS |
+| abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 12 | PASS |
+| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 23 | PASS |
 | SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 24 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 10 | PASS |
 | Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 5 | PASS |
@@ -40,7 +40,7 @@
 | SREEHARIS16 | [SREEHARIS16](https://github.com/SREEHARIS16) | 12 | PASS |
 | chrisbaptist07 | [chrisbaptist07](https://github.com/chrisbaptist07) | 10 | PASS |
 | sajidarryl | [sajidarryl](https://github.com/sajidarryl) | 3 | FAIL |
-| annmary-aaa | [annmary-aaa](https://github.com/annmary-aaa) | 10 | PASS |
+| annmary-aaa | [annmary-aaa](https://github.com/annmary-aaa) | 12 | PASS |
 | krupa2412 | [krupa2412](https://github.com/krupa2412) | 5 | PASS |
 | samvrith66 | [samvrith66](https://github.com/samvrith66) | 8 | PASS |
 | Nikshitha2896 | [Nikshitha2896](https://github.com/Nikshitha2896) | 7 | PASS |
@@ -64,7 +64,7 @@
 | BasudevDileep | [BasudevDileep](https://github.com/BasudevDileep) | 11 | PASS |
 | AthreyRaj | [AthreyRaj](https://github.com/AthreyRaj) | 19 | FAIL |
 | shayliz | [shayliz](https://github.com/shayliz) | 11 | FAIL |
-| MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 19 | PASS |
+| MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 18 | PASS |
 | Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 8 | PASS |
 | jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 12 | PASS |
 | Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 21 | FAIL |
