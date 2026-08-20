@@ -1,7 +1,7 @@
 | Profile Name | Username | Repo Count | EthicalHackingNotes-Christ Check |
 |---|---|---|---|
 | Ebinesh-03 | [Ebinesh-03](https://github.com/Ebinesh-03) | 5 | PASS |
-| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 27 | PASS |
+| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 28 | PASS |
 | SankaraNarayananS18 | [SankaraNarayananS18](https://github.com/SankaraNarayananS18) | 11 | PASS |
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 9 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 10 | PASS |
@@ -17,7 +17,7 @@
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 17 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 12 | PASS |
 | Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 23 | PASS |
-| SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 24 | PASS |
+| SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 25 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 10 | PASS |
 | Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 5 | PASS |
 | Deanjb3 | [Deanjb3](https://github.com/Deanjb3) | 7 | PASS |
