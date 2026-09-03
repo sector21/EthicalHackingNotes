@@ -1,17 +1,17 @@
 | Profile Name | Username | Repo Count | EthicalHackingNotes-Christ Check |
 |---|---|---|---|
 | Ebinesh-03 | [Ebinesh-03](https://github.com/Ebinesh-03) | 5 | PASS |
-| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 31 | PASS |
+| JuliusDude | [JuliusDude](https://github.com/JuliusDude) | 33 | PASS |
 | SankaraNarayananS18 | [SankaraNarayananS18](https://github.com/SankaraNarayananS18) | 11 | PASS |
 | JDANIELRAJ007 | [JDANIELRAJ007](https://github.com/JDANIELRAJ007) | 10 | PASS |
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 11 | PASS |
 | Abel0606 | [Abel0606](https://github.com/Abel0606) | 13 | PASS |
-| Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 23 | PASS |
-| jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 25 | PASS |
+| Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 24 | PASS |
+| jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 26 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 13 | PASS |
 | Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 22 | PASS |
-| B3ttina | [B3ttina](https://github.com/B3ttina) | 9 | PASS |
+| B3ttina | [B3ttina](https://github.com/B3ttina) | 10 | PASS |
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 15 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 13 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 19 | FAIL |
@@ -25,11 +25,11 @@
 | JoyAanchalRose | [JoyAanchalRose](https://github.com/JoyAanchalRose) | 5 | PASS |
 | Ramya-9739 | [Ramya-9739](https://github.com/Ramya-9739) | 10 | PASS |
 | Rachel-joy07 | [Rachel-joy07](https://github.com/Rachel-joy07) | 13 | PASS |
-| sasmitabtech | [sasmitabtech](https://github.com/sasmitabtech) | 19 | PASS |
+| sasmitabtech | [sasmitabtech](https://github.com/sasmitabtech) | 21 | PASS |
 | nithin811 | [nithin811](https://github.com/nithin811) | 16 | PASS |
 | NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 12 | PASS |
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 6 | PASS |
-| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 26 | PASS |
+| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 25 | PASS |
 | SharonC-droid | [SharonC-droid](https://github.com/SharonC-droid) | 10 | PASS |
 | dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 19 | PASS |
 | Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 23 | PASS |
@@ -90,17 +90,17 @@
 | LeoRineeth | [LeoRineeth](https://github.com/LeoRineeth) | 13 | FAIL |
 | ArthurFigrous | [ArthurFigrous](https://github.com/ArthurFigrous) | 6 | FAIL |
 | SonalJoy10 | [SonalJoy10](https://github.com/SonalJoy10) | 12 | PASS |
-| raappo | [raappo](https://github.com/raappo) | 24 | PASS |
+| raappo | [raappo](https://github.com/raappo) | 26 | PASS |
 | bigdaddy110 | [bigdaddy110](https://github.com/bigdaddy110) | 3 | FAIL |
 | AmanVarunEkka | [AmanVarunEkka](https://github.com/AmanVarunEkka) | 5 | PASS |
-| GOKUL06092006 | [GOKUL06092006](https://github.com/GOKUL06092006) | 13 | PASS |
+| GOKUL06092006 | [GOKUL06092006](https://github.com/GOKUL06092006) | 14 | PASS |
 | Abishek-gitit | [Abishek-gitit](https://github.com/Abishek-gitit) | 16 | PASS |
 | MINEAMICHEAL | [MINEAMICHEAL](https://github.com/MINEAMICHEAL) | 5 | PASS |
 | Prajin-30 | [Prajin-30](https://github.com/Prajin-30) | 10 | PASS |
 | Tenzin-Choeying1 | [Tenzin-Choeying1](https://github.com/Tenzin-Choeying1) | 13 | FAIL |
-| elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 9 | PASS |
+| elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 10 | PASS |
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 9 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 3 | FAIL |
-| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 65 | FAIL |
+| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 66 | FAIL |
 | bbpatil | [bbpatil](https://github.com/bbpatil) | 550 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 13 | FAIL |
