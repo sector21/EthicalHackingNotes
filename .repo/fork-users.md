@@ -17,7 +17,7 @@
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 19 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 17 | PASS |
 | Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 25 | PASS |
-| SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 28 | PASS |
+| SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 27 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 12 | PASS |
 | Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 6 | PASS |
 | Deanjb3 | [Deanjb3](https://github.com/Deanjb3) | 8 | PASS |
@@ -76,7 +76,7 @@
 | Monisha71 | [Monisha71](https://github.com/Monisha71) | 7 | PASS |
 | JemimahAnna | [JemimahAnna](https://github.com/JemimahAnna) | 12 | PASS |
 | Reuben-Sunish | [Reuben-Sunish](https://github.com/Reuben-Sunish) | 9 | PASS |
-| maxine-23 | [maxine-23](https://github.com/maxine-23) | 8 | PASS |
+| maxine-23 | [maxine-23](https://github.com/maxine-23) | 9 | PASS |
 | Rhea-gracy | [Rhea-gracy](https://github.com/Rhea-gracy) | 13 | PASS |
 | Stacydsouza | [Stacydsouza](https://github.com/Stacydsouza) | 15 | PASS |
 | jfs1336 | [jfs1336](https://github.com/jfs1336) | 10 | FAIL |
