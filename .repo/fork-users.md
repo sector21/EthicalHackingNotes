@@ -10,7 +10,7 @@
 | jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 27 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 15 | PASS |
-| Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 23 | PASS |
+| Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 24 | PASS |
 | B3ttina | [B3ttina](https://github.com/B3ttina) | 11 | PASS |
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 17 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 13 | PASS |
@@ -23,7 +23,7 @@
 | Deanjb3 | [Deanjb3](https://github.com/Deanjb3) | 8 | PASS |
 | ishaZaara | [ishaZaara](https://github.com/ishaZaara) | 9 | PASS |
 | JoyAanchalRose | [JoyAanchalRose](https://github.com/JoyAanchalRose) | 5 | PASS |
-| Ramya-9739 | [Ramya-9739](https://github.com/Ramya-9739) | 10 | PASS |
+| Ramya-9739 | [Ramya-9739](https://github.com/Ramya-9739) | 11 | PASS |
 | Rachel-joy07 | [Rachel-joy07](https://github.com/Rachel-joy07) | 16 | PASS |
 | sasmitabtech | [sasmitabtech](https://github.com/sasmitabtech) | 23 | PASS |
 | nithin811 | [nithin811](https://github.com/nithin811) | 17 | PASS |
@@ -53,7 +53,7 @@
 | RichardRajuChirayath | [RichardRajuChirayath](https://github.com/RichardRajuChirayath) | 25 | PASS |
 | johnevin965 | [johnevin965](https://github.com/johnevin965) | 3 | FAIL |
 | Sartaj-IT | [Sartaj-IT](https://github.com/Sartaj-IT) | 9 | PASS |
-| Sankeeth-23 | [Sankeeth-23](https://github.com/Sankeeth-23) | 5 | PASS |
+| Sankeeth-23 | [Sankeeth-23](https://github.com/Sankeeth-23) | 6 | PASS |
 | AvrelPinto | [AvrelPinto](https://github.com/AvrelPinto) | 7 | PASS |
 | Melwin-Thomas | [Melwin-Thomas](https://github.com/Melwin-Thomas) | 11 | PASS |
 | AlenSaijo | [AlenSaijo](https://github.com/AlenSaijo) | 10 | PASS |
@@ -79,7 +79,7 @@
 | maxine-23 | [maxine-23](https://github.com/maxine-23) | 9 | PASS |
 | Rhea-gracy | [Rhea-gracy](https://github.com/Rhea-gracy) | 13 | PASS |
 | Stacydsouza | [Stacydsouza](https://github.com/Stacydsouza) | 15 | PASS |
-| jfs1336 | [jfs1336](https://github.com/jfs1336) | 10 | FAIL |
+| jfs1336 | [jfs1336](https://github.com/jfs1336) | 12 | FAIL |
 | Tom-boby | [Tom-boby](https://github.com/Tom-boby) | 17 | PASS |
 | TenzinRigzin2460462 | [TenzinRigzin2460462](https://github.com/TenzinRigzin2460462) | 13 | PASS |
 | AntonyPraveenReddyK | [AntonyPraveenReddyK](https://github.com/AntonyPraveenReddyK) | 16 | FAIL |
