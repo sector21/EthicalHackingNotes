@@ -15,7 +15,7 @@
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 17 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 13 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 19 | FAIL |
-| abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 17 | PASS |
+| abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 16 | PASS |
 | Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 25 | PASS |
 | SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 27 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 12 | PASS |
