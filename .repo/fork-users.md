@@ -79,7 +79,7 @@
 | maxine-23 | [maxine-23](https://github.com/maxine-23) | 9 | PASS |
 | Rhea-gracy | [Rhea-gracy](https://github.com/Rhea-gracy) | 13 | PASS |
 | Stacydsouza | [Stacydsouza](https://github.com/Stacydsouza) | 15 | PASS |
-| jfs1336 | [jfs1336](https://github.com/jfs1336) | 12 | FAIL |
+| jfs1336 | [jfs1336](https://github.com/jfs1336) | 13 | FAIL |
 | Tom-boby | [Tom-boby](https://github.com/Tom-boby) | 17 | PASS |
 | TenzinRigzin2460462 | [TenzinRigzin2460462](https://github.com/TenzinRigzin2460462) | 13 | PASS |
 | AntonyPraveenReddyK | [AntonyPraveenReddyK](https://github.com/AntonyPraveenReddyK) | 16 | FAIL |
