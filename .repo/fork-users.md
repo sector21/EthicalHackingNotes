@@ -26,7 +26,7 @@
 | Ramya-9739 | [Ramya-9739](https://github.com/Ramya-9739) | 11 | PASS |
 | Rachel-joy07 | [Rachel-joy07](https://github.com/Rachel-joy07) | 16 | PASS |
 | sasmitabtech | [sasmitabtech](https://github.com/sasmitabtech) | 23 | PASS |
-| nithin811 | [nithin811](https://github.com/nithin811) | 19 | PASS |
+| nithin811 | [nithin811](https://github.com/nithin811) | 18 | PASS |
 | NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 12 | PASS |
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 6 | PASS |
 | Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 29 | PASS |
@@ -68,7 +68,7 @@
 | Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 10 | PASS |
 | jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 15 | PASS |
 | Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 23 | FAIL |
-| Prisha-11-07 | [Prisha-11-07](https://github.com/Prisha-11-07) | 13 | PASS |
+| Prisha-11-07 | [Prisha-11-07](https://github.com/Prisha-11-07) | 12 | PASS |
 | Aksa-006 | [Aksa-006](https://github.com/Aksa-006) | 4 | PASS |
 | SanjanaSudhir | [SanjanaSudhir](https://github.com/SanjanaSudhir) | 7 | PASS |
 | JoshinyMaria | [JoshinyMaria](https://github.com/JoshinyMaria) | 7 | PASS |
@@ -78,7 +78,7 @@
 | Reuben-Sunish | [Reuben-Sunish](https://github.com/Reuben-Sunish) | 9 | PASS |
 | maxine-23 | [maxine-23](https://github.com/maxine-23) | 9 | PASS |
 | Rhea-gracy | [Rhea-gracy](https://github.com/Rhea-gracy) | 13 | PASS |
-| Stacydsouza | [Stacydsouza](https://github.com/Stacydsouza) | 16 | PASS |
+| Stacydsouza | [Stacydsouza](https://github.com/Stacydsouza) | 15 | PASS |
 | jfs1336 | [jfs1336](https://github.com/jfs1336) | 12 | FAIL |
 | Tom-boby | [Tom-boby](https://github.com/Tom-boby) | 17 | PASS |
 | TenzinRigzin2460462 | [TenzinRigzin2460462](https://github.com/TenzinRigzin2460462) | 13 | PASS |
@@ -101,6 +101,6 @@
 | elizamiriampaul | [elizamiriampaul](https://github.com/elizamiriampaul) | 11 | PASS |
 | lijo6666 | [lijo6666](https://github.com/lijo6666) | 9 | PASS |
 | moonknight96 | [moonknight96](https://github.com/moonknight96) | 3 | FAIL |
-| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 65 | FAIL |
+| Istiaq-Alam | [Istiaq-Alam](https://github.com/Istiaq-Alam) | 66 | FAIL |
 | bbpatil | [bbpatil](https://github.com/bbpatil) | 551 | FAIL |
 | abinshajumi7 | [abinshajumi7](https://github.com/abinshajumi7) | 13 | FAIL |
