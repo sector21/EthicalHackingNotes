@@ -16,7 +16,6 @@
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 13 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 19 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 16 | PASS |
-| Darain-Brit-A | [Darain-Brit-A](https://github.com/Darain-Brit-A) | 25 | PASS |
 | SanMaria28 | [SanMaria28](https://github.com/SanMaria28) | 27 | PASS |
 | shaundx5 | [shaundx5](https://github.com/shaundx5) | 12 | PASS |
 | Patrick-Pio | [Patrick-Pio](https://github.com/Patrick-Pio) | 6 | PASS |
@@ -35,16 +34,16 @@
 | Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 25 | PASS |
 | KARTHIK-RAJEEV | [KARTHIK-RAJEEV](https://github.com/KARTHIK-RAJEEV) | 11 | PASS |
 | adisankar-oss | [adisankar-oss](https://github.com/adisankar-oss) | 9 | PASS |
-| AnnmarieVinish | [AnnmarieVinish](https://github.com/AnnmarieVinish) | 13 | PASS |
+| AnnmarieVinish | [AnnmarieVinish](https://github.com/AnnmarieVinish) | 14 | PASS |
 | AnamiiiikaM | [AnamiiiikaM](https://github.com/AnamiiiikaM) | 9 | PASS |
 | SREEHARIS16 | [SREEHARIS16](https://github.com/SREEHARIS16) | 13 | PASS |
-| chrisbaptist07 | [chrisbaptist07](https://github.com/chrisbaptist07) | 14 | PASS |
+| chrisbaptist07 | [chrisbaptist07](https://github.com/chrisbaptist07) | 15 | PASS |
 | sajidarryl | [sajidarryl](https://github.com/sajidarryl) | 3 | FAIL |
 | annmary-aaa | [annmary-aaa](https://github.com/annmary-aaa) | 14 | PASS |
 | krupa2412 | [krupa2412](https://github.com/krupa2412) | 5 | PASS |
 | samvrith66 | [samvrith66](https://github.com/samvrith66) | 10 | PASS |
 | Nikshitha2896 | [Nikshitha2896](https://github.com/Nikshitha2896) | 11 | PASS |
-| SnehaT23 | [SnehaT23](https://github.com/SnehaT23) | 15 | PASS |
+| SnehaT23 | [SnehaT23](https://github.com/SnehaT23) | 16 | PASS |
 | tanushree-2006 | [tanushree-2006](https://github.com/tanushree-2006) | 7 | PASS |
 | alvinjobi4 | [alvinjobi4](https://github.com/alvinjobi4) | 17 | FAIL |
 | A-M-K-x | [A-M-K-x](https://github.com/A-M-K-x) | 6 | FAIL |
@@ -64,7 +63,7 @@
 | BasudevDileep | [BasudevDileep](https://github.com/BasudevDileep) | 12 | PASS |
 | AthreyRaj | [AthreyRaj](https://github.com/AthreyRaj) | 19 | FAIL |
 | shayliz | [shayliz](https://github.com/shayliz) | 17 | FAIL |
-| MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 21 | PASS |
+| MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 22 | PASS |
 | Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 10 | PASS |
 | jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 15 | PASS |
 | Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 25 | FAIL |
