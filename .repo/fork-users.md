@@ -7,10 +7,10 @@
 | Aaron-VS | [Aaron-VS](https://github.com/Aaron-VS) | 13 | PASS |
 | Abel0606 | [Abel0606](https://github.com/Abel0606) | 14 | PASS |
 | Umeshwarkumar | [Umeshwarkumar](https://github.com/Umeshwarkumar) | 25 | PASS |
-| jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 27 | PASS |
+| jonvikboi | [jonvikboi](https://github.com/jonvikboi) | 28 | PASS |
 | EVAN-KS | [EVAN-KS](https://github.com/EVAN-KS) | 4 | PASS |
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 15 | PASS |
-| Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 21 | PASS |
+| Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 20 | PASS |
 | B3ttina | [B3ttina](https://github.com/B3ttina) | 11 | PASS |
 | AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 17 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 13 | PASS |
@@ -28,7 +28,7 @@
 | nithin811 | [nithin811](https://github.com/nithin811) | 18 | PASS |
 | NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 13 | PASS |
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 6 | PASS |
-| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 27 | PASS |
+| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 30 | PASS |
 | SharonC-droid | [SharonC-droid](https://github.com/SharonC-droid) | 11 | PASS |
 | dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 21 | PASS |
 | Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 25 | PASS |
@@ -41,7 +41,7 @@
 | sajidarryl | [sajidarryl](https://github.com/sajidarryl) | 3 | FAIL |
 | annmary-aaa | [annmary-aaa](https://github.com/annmary-aaa) | 14 | PASS |
 | krupa2412 | [krupa2412](https://github.com/krupa2412) | 5 | PASS |
-| samvrith66 | [samvrith66](https://github.com/samvrith66) | 10 | PASS |
+| samvrith66 | [samvrith66](https://github.com/samvrith66) | 11 | PASS |
 | Nikshitha2896 | [Nikshitha2896](https://github.com/Nikshitha2896) | 11 | PASS |
 | SnehaT23 | [SnehaT23](https://github.com/SnehaT23) | 16 | PASS |
 | tanushree-2006 | [tanushree-2006](https://github.com/tanushree-2006) | 7 | PASS |
@@ -78,7 +78,7 @@
 | maxine-23 | [maxine-23](https://github.com/maxine-23) | 9 | PASS |
 | Rhea-gracy | [Rhea-gracy](https://github.com/Rhea-gracy) | 13 | PASS |
 | Stacydsouza | [Stacydsouza](https://github.com/Stacydsouza) | 15 | PASS |
-| jfs1336 | [jfs1336](https://github.com/jfs1336) | 13 | FAIL |
+| jfs1336 | [jfs1336](https://github.com/jfs1336) | 14 | FAIL |
 | Tom-boby | [Tom-boby](https://github.com/Tom-boby) | 17 | PASS |
 | TenzinRigzin2460462 | [TenzinRigzin2460462](https://github.com/TenzinRigzin2460462) | 13 | PASS |
 | AntonyPraveenReddyK | [AntonyPraveenReddyK](https://github.com/AntonyPraveenReddyK) | 16 | FAIL |
