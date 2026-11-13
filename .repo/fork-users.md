@@ -12,7 +12,7 @@
 | Soumya-code-ai | [Soumya-code-ai](https://github.com/Soumya-code-ai) | 15 | PASS |
 | Dineshbaburs | [Dineshbaburs](https://github.com/Dineshbaburs) | 20 | PASS |
 | B3ttina | [B3ttina](https://github.com/B3ttina) | 11 | PASS |
-| AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 17 | PASS |
+| AdithyaRaj672 | [AdithyaRaj672](https://github.com/AdithyaRaj672) | 18 | PASS |
 | Allanpremm | [Allanpremm](https://github.com/Allanpremm) | 13 | PASS |
 | alfindigo | [alfindigo](https://github.com/alfindigo) | 19 | FAIL |
 | abelalexander18 | [abelalexander18](https://github.com/abelalexander18) | 16 | PASS |
@@ -37,9 +37,9 @@
 | AnnmarieVinish | [AnnmarieVinish](https://github.com/AnnmarieVinish) | 14 | PASS |
 | AnamiiiikaM | [AnamiiiikaM](https://github.com/AnamiiiikaM) | 9 | PASS |
 | SREEHARIS16 | [SREEHARIS16](https://github.com/SREEHARIS16) | 13 | PASS |
-| chrisbaptist07 | [chrisbaptist07](https://github.com/chrisbaptist07) | 15 | PASS |
+| chrisbaptist07 | [chrisbaptist07](https://github.com/chrisbaptist07) | 16 | PASS |
 | sajidarryl | [sajidarryl](https://github.com/sajidarryl) | 3 | FAIL |
-| annmary-aaa | [annmary-aaa](https://github.com/annmary-aaa) | 14 | PASS |
+| annmary-aaa | [annmary-aaa](https://github.com/annmary-aaa) | 15 | PASS |
 | krupa2412 | [krupa2412](https://github.com/krupa2412) | 5 | PASS |
 | samvrith66 | [samvrith66](https://github.com/samvrith66) | 11 | PASS |
 | Nikshitha2896 | [Nikshitha2896](https://github.com/Nikshitha2896) | 11 | PASS |
