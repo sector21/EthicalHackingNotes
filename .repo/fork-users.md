@@ -37,7 +37,7 @@
 | AnnmarieVinish | [AnnmarieVinish](https://github.com/AnnmarieVinish) | 14 | PASS |
 | AnamiiiikaM | [AnamiiiikaM](https://github.com/AnamiiiikaM) | 9 | PASS |
 | SREEHARIS16 | [SREEHARIS16](https://github.com/SREEHARIS16) | 13 | PASS |
-| chrisbaptist07 | [chrisbaptist07](https://github.com/chrisbaptist07) | 16 | PASS |
+| chrisbaptist07 | [chrisbaptist07](https://github.com/chrisbaptist07) | 17 | PASS |
 | sajidarryl | [sajidarryl](https://github.com/sajidarryl) | 3 | FAIL |
 | annmary-aaa | [annmary-aaa](https://github.com/annmary-aaa) | 15 | PASS |
 | krupa2412 | [krupa2412](https://github.com/krupa2412) | 5 | PASS |
@@ -66,11 +66,11 @@
 | MichelleDevasia | [MichelleDevasia](https://github.com/MichelleDevasia) | 22 | PASS |
 | Angela-Domingo | [Angela-Domingo](https://github.com/Angela-Domingo) | 10 | PASS |
 | jessicanalinipaully | [jessicanalinipaully](https://github.com/jessicanalinipaully) | 15 | PASS |
-| Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 25 | FAIL |
+| Prash-2402 | [Prash-2402](https://github.com/Prash-2402) | 26 | FAIL |
 | Prisha-11-07 | [Prisha-11-07](https://github.com/Prisha-11-07) | 12 | PASS |
 | Aksa-006 | [Aksa-006](https://github.com/Aksa-006) | 4 | PASS |
 | SanjanaSudhir | [SanjanaSudhir](https://github.com/SanjanaSudhir) | 7 | PASS |
-| JoshinyMaria | [JoshinyMaria](https://github.com/JoshinyMaria) | 7 | PASS |
+| JoshinyMaria | [JoshinyMaria](https://github.com/JoshinyMaria) | 8 | PASS |
 | SriRam-0511 | [SriRam-0511](https://github.com/SriRam-0511) | 4 | PASS |
 | Monisha71 | [Monisha71](https://github.com/Monisha71) | 7 | PASS |
 | JemimahAnna | [JemimahAnna](https://github.com/JemimahAnna) | 12 | PASS |
