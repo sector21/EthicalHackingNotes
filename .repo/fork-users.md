@@ -28,7 +28,7 @@
 | nithin811 | [nithin811](https://github.com/nithin811) | 18 | PASS |
 | NITHEE-11 | [NITHEE-11](https://github.com/NITHEE-11) | 13 | PASS |
 | Nandana-19 | [Nandana-19](https://github.com/Nandana-19) | 6 | PASS |
-| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 30 | PASS |
+| Kavin-cse | [Kavin-cse](https://github.com/Kavin-cse) | 31 | PASS |
 | SharonC-droid | [SharonC-droid](https://github.com/SharonC-droid) | 11 | PASS |
 | dan-jose2006 | [dan-jose2006](https://github.com/dan-jose2006) | 21 | PASS |
 | Joel-jarn | [Joel-jarn](https://github.com/Joel-jarn) | 25 | PASS |
@@ -37,7 +37,7 @@
 | AnnmarieVinish | [AnnmarieVinish](https://github.com/AnnmarieVinish) | 14 | PASS |
 | AnamiiiikaM | [AnamiiiikaM](https://github.com/AnamiiiikaM) | 9 | PASS |
 | SREEHARIS16 | [SREEHARIS16](https://github.com/SREEHARIS16) | 13 | PASS |
-| chrisbaptist07 | [chrisbaptist07](https://github.com/chrisbaptist07) | 17 | PASS |
+| chrisbaptist07 | [chrisbaptist07](https://github.com/chrisbaptist07) | 19 | PASS |
 | sajidarryl | [sajidarryl](https://github.com/sajidarryl) | 3 | FAIL |
 | annmary-aaa | [annmary-aaa](https://github.com/annmary-aaa) | 15 | PASS |
 | krupa2412 | [krupa2412](https://github.com/krupa2412) | 5 | PASS |
